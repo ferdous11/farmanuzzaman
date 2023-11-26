@@ -35,6 +35,7 @@
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="/projects">Projects</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="/contact">Contact</a></li>
                     </ul>
+                    <a class="btn btn-success" href="{{ asset('A.J.M.FarmanuzzamanCV.pdf') }}" download>Download CV</a>
                 </div>
             </div>
     </nav>
